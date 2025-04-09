@@ -1,50 +1,9 @@
-[
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.ihidea.expert",
-            "sha256_cert_fingerprints": [
-                "6B:E1:11:1B:ED:64:AC:BF:AA:32:9A:5D:D5:2C:7F:3A:DD:77:99:6B:27:BE:91:72:91:BB:72:E7:6B:F8:23:2A"
-            ]
-        }
-    },
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.ihidea.expert",
-            "sha256_cert_fingerprints": [
-                "57:8B:0F:2D:70:C0:EA:08:AB:CB:2C:17:D1:72:1C:8D:B2:1B:30:96:23:D3:A8:77:66:67:62:78:20:EA:19:F7"
-            ]
-        }
-    },
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.dazhuanjia.dcloud",
-            "sha256_cert_fingerprints": [
-                "57:8B:0F:2D:70:C0:EA:08:AB:CB:2C:17:D1:72:1C:8D:B2:1B:30:96:23:D3:A8:77:66:67:62:78:20:EA:19:F7"
-            ]
-        }
-    },
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.dazhuanjia.dcloud",
-            "sha256_cert_fingerprints": [
-                "A1:A0:A2:0B:07:4D:D5:9A:44:8C:D8:BD:0F:B5:12:40:A8:3B:AB:46:D7:DE:19:96:1E:B6:28:34:4D:93:C9:FD"
-            ]
-        }
-    }
-]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ihidea.expert",
+    "sha256_cert_fingerprints":
+    ["57:8B:0F:2D:70:C0:EA:08:AB:CB:2C:17:D1:72:1C:8D:B2:1B:30:96:23:D3:A8:77:66:67:62:78:20:EA:19:F7"]
+  }
+}]
